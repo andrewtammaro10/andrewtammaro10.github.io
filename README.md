@@ -30,7 +30,9 @@ I had two visualizations in mind, one for individual players and one for teams. 
 ### Visualizing
 In Tableau, I created three separate visuals. The first two show which players saved (defensive players) and lost (offensive players) the most points for their team in a given season. The top 10 players can be seen in the two graphs at the top of the dashboard. The third visual shows a comparison of how many points a team gained and lost in a specific season. Points saved is on the X-axis and points lost is on the Y-axis, indicating teams in the lower right corner as the most effective in terms of interceptions on both sides of the ball.
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/andrew.tammaro/viz/SideProject-Interceptions/Dashboard1?publish=yes" width = '100%' height = '600'></iframe>
+
+<iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/andrew.tammaro/viz/SideProject-Interceptions/Dashboard1?publish=yes" width = '650' height = '450' scrolling='yes' ></iframe>    
+
 
 Over the span of the eight seasons in the data, Malcolm Jenkins (104.79) and Eli Manning (400.1) saved and lost their teams the most estimated drive points, respectively. Stevie Brown had the most prolific season on the defensive side, recording 8 interceptions for the Giants in 2012, saving them an estimated 33.88 points. Conversely, Drew Brees threw 19 interceptions and lost his team an estimated 78.34 points. Interestingly enough, Peyton Manning led the NFL in points lost with 55.56 in 2015, his last season. He accomplished this despite starting only 9 games and still managed to win his second Super Bowl.
 
