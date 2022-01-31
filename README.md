@@ -20,6 +20,9 @@ Two models were ultimately used. First, a linear regression was run on the data.
 
 ![Variable Importance Plot](https://user-images.githubusercontent.com/86579251/151746939-e16c2ff3-f492-4ea0-b92a-d28ee4c9aad4.png)
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/86579251/151746939-e16c2ff3-f492-4ea0-b92a-d28ee4c9aad4.png" alt="Variable Importance Plot"/>
+</p>
 
 With the final model selected, the only thing left to do before visualizing the data was to apply the model to the play-by-play data from 2009 to 2016. To do this, the same steps from before were followed to prepare the data. Additionally, on plays where the interception resulted in a defensive touchdown, 6.979 points (97.9% was the average extra point conversion rate) were added to the variable. Once applied, the data was subset down to only include plays on which an interception occurred.
 
