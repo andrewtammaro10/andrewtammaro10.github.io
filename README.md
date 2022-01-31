@@ -33,6 +33,9 @@ In Tableau, I created three separate visuals. The first two show which players s
 
 <iframe seamless="" frameborder="0" src="https://public.tableau.com/views/fbclust/Sheet2?:embed=yes&amp;:display_count=yes&amp;:showVizHome=no" width="100%" height="600"></iframe>
 
+<iframe seamless="" frameborder="0" src="https://public.tableau.com/views/SideProject-Interceptions/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" width="100%" height="600"></iframe>
+
+
 Over the span of the eight seasons in the data, Malcolm Jenkins (104.79) and Eli Manning (400.1) saved and lost their teams the most estimated drive points, respectively. Stevie Brown had the most prolific season on the defensive side, recording 8 interceptions for the Giants in 2012, saving them an estimated 33.88 points. Conversely, Drew Brees threw 19 interceptions and lost his team an estimated 78.34 points. Interestingly enough, Peyton Manning led the NFL in points lost with 55.56 in 2015, his last season. He accomplished this despite starting only 9 games and still managed to win his second Super Bowl.
 
 On the team side, there were several interesting results seen in the scatterplot. The Packers and Jaguars sit in opposite corners when looking at the statistics over the full 8 seasons. Green Bay won 68.4% of their games in this span and also took home a Super Bowl, appearing in the playoffs in each season. On the other hand, the Jaguars won only 28.9% of their games and failed to make the playoffs once. The team that led the league in points saved won the Super Bowl twice in this eight year span, with the Saints in 2009 and the Seahawks in 2013. Interestingly enough, the team that led the league in points saved also took home the Lombardi Trophy twice in this span, with the Seahawks in 2013 (again) and the Patriots in 2016.
