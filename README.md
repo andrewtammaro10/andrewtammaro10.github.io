@@ -18,9 +18,8 @@ With a concrete data set of plays to build models on, the correct variables had 
 
 Two models were ultimately used. First, a linear regression was run on the data. The MAE (Mean Absolute Error) on the test data set was 2.204. Second, a random forest was fitted on the same training data converted to an array. 1,000 decision trees and the same random state were specified. After applying the model to the test data, the MAE was only 2.206. A variable importance plot indicated which inputs contributed most to predicting drive points. As seen below, distance from the goal line was the most important variable, followed by time remaining in the half, time remaining in the game, score differential, and the total score in the game. All of these intuitively make sense to football fans as factors that would most influence the outcome of a drive.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/86579251/151746939-e16c2ff3-f492-4ea0-b92a-d28ee4c9aad4.png" alt="Variable Importance Plot"/>
-</p>
+<iframe src="https://public.tableau.com/app/profile/andrew.tammaro/viz/SideProject-Interceptions/Dashboard1?publish=yes" width = '650' height = '450'></iframe>
+
 
 With the final model selected, the only thing left to do before visualizing the data was to apply the model to the play-by-play data from 2009 to 2016. To do this, the same steps from before were followed to prepare the data. Additionally, on plays where the interception resulted in a defensive touchdown, 6.979 points (97.9% was the average extra point conversion rate) were added to the variable. Once applied, the data was subset down to only include plays on which an interception occurred.
 
