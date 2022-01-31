@@ -31,7 +31,7 @@ I had two visualizations in mind, one for individual players and one for teams. 
 In Tableau, I created three separate visuals. The first two show which players saved (defensive players) and lost (offensive players) the most points for their team in a given season. The top 10 players can be seen in the two graphs at the top of the dashboard. The third visual shows a comparison of how many points a team gained and lost in a specific season. Points saved is on the X-axis and points lost is on the Y-axis, indicating teams in the lower right corner as the most effective in terms of interceptions on both sides of the ball.
 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/SideProject-Interceptions/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" width = '650' height = '450' scrolling='yes' ></iframe>    
+<center><iframe src="https://public.tableau.com/views/SideProject-Interceptions/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link" width="1004" height="1269" frameborder="0"></iframe></center>
 
 
 
